@@ -1,3 +1,3 @@
 # first-git-repo
 
-Ruby on Rails App
+Ruby on Rails
