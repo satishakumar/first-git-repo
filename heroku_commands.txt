@@ -1,0 +1,4 @@
+
+heroku restart --app [app name]
+
+heroku run rake db:migrate --app [app name]
