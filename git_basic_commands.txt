@@ -26,6 +26,11 @@ git add <filename>
 git add *
 Commit
 
+
+Heroku :
+
+heroku run rake db:migrate -app [my app name]
+
 Commit changes to head (but not yet to the remote repository):	
 git commit -m "Commit message"
 Commit any files you've added with git add, and also commit any files you've changed since then:	
