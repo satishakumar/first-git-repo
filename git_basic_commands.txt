@@ -29,7 +29,7 @@ Commit
 
 Heroku :
 
-heroku run rake db:migrate -app [my app name]
+heroku run rake db:migrate --app [euf9ew8uf89]
 
 Commit changes to head (but not yet to the remote repository):	
 git commit -m "Commit message"
