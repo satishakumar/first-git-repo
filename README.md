@@ -1,6 +1,4 @@
-# first-git-repo
+# my-first-github-repository
 
-Ruby on Rails
-
-Ruby on Rails 4.0 - Ruby 2.0
-
+1. Listed basics git commands rewuired to work remotedly with get reporsitory.
+2. Listed basics heroku commands for deploying any application in heroku cloud.
