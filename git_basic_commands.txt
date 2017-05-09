@@ -26,6 +26,8 @@ git add <filename>
 git add *
 Commit
 
+Store Username and Password :
+git config credential.helper store
 
 Heroku :
 
